@@ -1,2 +1,2 @@
 # forsake-the-snake
-Abandoned snake clone.
+Orphaned snake clone.
