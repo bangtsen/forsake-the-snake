@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Test1</string>
+    <string name="new_game">Nowa gra</string>
+    <string name="how_to_play">Jak grać</string>
+    <string name="about_me">O twórcy</string>
+    <string name="title_activity_display_how_to">Jak Grać</string>
+</resources>
